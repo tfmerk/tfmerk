@@ -10,6 +10,9 @@
 	<a href="https://discord.com/users/390938915579625472" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="390938915579625472" height="30" width="40"/>
 	</a>
+	<a href="https://www.hackerrank.com/t_f_merk" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="t_f_merk" height="30" width="40" />
+	</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
