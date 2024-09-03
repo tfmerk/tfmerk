@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Tom</h1>
 <h3 align="center">A passionate PHP developer from Germany</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tfmerk&show_icons=true&theme=cobalt&locale=de&layout=compact" alt="tfmerk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tfmerk&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="tfmerk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tfmerk&show_icons=true&theme=cobalt&locale=de" alt="tfmerk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tfmerk&show_icons=true&theme=cobalt&locale=en" alt="tfmerk" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
